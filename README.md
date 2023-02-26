@@ -4,7 +4,7 @@ Untuk database NO SQL menggunakan Docker MongoDB jadi tidak perlu install MongoD
 caranya 
 1. install docker : https://docs.docker.com/get-docker/
 2. Jalankan docker daemon dengan klik aplikasi docker yg sudah terinstall
-3. Pada terminal ketik bash/run.sh untuk menjalankan docker command. Setelah itu ketik command `docker ps` kemudian akan muncul informasi berikut
+3. Pada terminal ketik `bash/run.sh` untuk menjalankan docker command. Setelah itu ketik command `docker ps` kemudian akan muncul informasi berikut
 ![docker_ps](https://github.com/abdurrahmanshidiq/no_sql/blob/master/img/docker_ps.png "docker_ps")<br>
 4. Buka Studio 3T (https://studio3t.com/) dan masukkan Host, Port, User, Password seperti gambar berikut
 ![port](https://github.com/abdurrahmanshidiq/no_sql/blob/master/img/port.png "port")<br>
