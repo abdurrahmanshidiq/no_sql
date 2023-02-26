@@ -13,6 +13,7 @@ caranya
 ![create_collection](https://github.com/abdurrahmanshidiq/no_sql/blob/master/img/create_collection.png "create_collection")<br>
 ![collection_buku](https://github.com/abdurrahmanshidiq/no_sql/blob/master/img/collection_buku.png "collection_buku")<br>
 6. Jalankan query mongo (query.js) pada console Studio 3T
+![query_img](https://github.com/abdurrahmanshidiq/no_sql/blob/master/img/query_img.png "query_img")<br>
 
 
 
