@@ -15,4 +15,6 @@ caranya
 6. Jalankan query mongo (query.js) pada console Studio 3T
 
 
+
+-- 
 Image MongoDB : https://hub.docker.com/_/mongo
