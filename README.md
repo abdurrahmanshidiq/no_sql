@@ -14,3 +14,5 @@ caranya
 ![collection_buku](https://github.com/abdurrahmanshidiq/no_sql/blob/master/img/collection_buku.png "collection_buku")<br>
 6. Jalankan query mongo (query.js) pada console Studio 3T
 
+
+Image MongoDB : https://hub.docker.com/_/mongo
